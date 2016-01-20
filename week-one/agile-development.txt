@@ -66,6 +66,9 @@ done that, do the following:
 
 3. Copy below the output from `ssh git@github.com`:
 
+Warning: Permanently added the RSA host key for IP address '192.30.252.130' to the list of known hosts.
+PTY allocation request failed on channel 0
+
 
 Clone your fork of this repository. Then, on your computer, add a remote
 referencing my copy of the repository as the upstream rep by running
