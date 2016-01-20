@@ -55,9 +55,11 @@ First, you need to install Git, if you don’t have it already.
 
 1. Copy below the output from `git version`:
 
+git version 1.7.12.4 (Apple Git-37)
 
 2. Copy below the output from `git config --global --list`:
-
+user.name=Renee Weaver
+user.email=weaver@iit.edu
 
 You also need to set up your public/private keypair with GitHub. Once you’ve
 done that, do the following:
