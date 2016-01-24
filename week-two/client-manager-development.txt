@@ -52,6 +52,8 @@ Use Google or another search engine to learn the keyboard commands to take a scr
 
 Projecting your screen or showing it to someone else can be an immediate source of embarrassment if a notification pops up from the wrong app. For every device you own, learn how to disable the notifications. On your desktop device and on one of your devices, take a screenshot of the screen where you can disable all notifications. Create the screenshots, then copy them to this directory (`week-two`) and add and commit them to the repository.
 
+I am running OS X 10.7 (Lion) on my laptop.  Notification manager was not introduced until OS X 10.8 (Mountain Lion).  I was unable to turn off notifications since they don't exist. 
+
 6. Invest in a machine-washable microfiber cloth & clean your screens.
 
 There’s no deliverable for this, but it is good professional practice always to have a cloth to wipe down your screens ahead of meetings. I keep one in every desk I work at, and in each different bag that I carry. Searching Amazon.com, for example, turns up a bunch of different options: http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Doffice-products&field-keywords=microfiber+cloths
