@@ -48,3 +48,8 @@ table {
 }
 
 /* Above is CSS Reset, below starts project CSS*/
+
+
+#info {
+	display: block;
+}
