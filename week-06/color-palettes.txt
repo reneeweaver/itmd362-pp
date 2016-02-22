@@ -11,24 +11,25 @@ based on the requirements in the Deliverables section below.
 Fine-grained, atomic commits to your Production Problems repository that include:
 
 1) screenshots of your web-based palette for the four palettes below;
+
 2) an explanation, after each palette request below, why you chose the colors you did
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
-Explanation of your color choices:
+Filename: monochromatic_blues
+Explanation of your color choices: I went with shades of blue, blue-gray and black.  I think that these colors suggest a sleek, modern design.  It suggests a fast speed, which would be extremely important in high-end gaming laptops.  
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
-Explanation of your color choices:
+Filename: shades_green
+Explanation of your color choices: I chose shades of green because green suggests plant life and new growth. This would suggest that the natual and organic foods are freshly grown. 
 
 * A complementary palette for a banking website.
 
-Filename:
-Explanation of your color choices:
+Filename: complementary_blue_brown
+Explanation of your color choices: I went with blue as my primary color choice because this blue suggests confidence, the complementary color of brown will balance out the shades of blue.  I stayed away from shades of green (the color of money) and red which could mean danger. 
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
-Explanation of your color choices:
+Filename: triad_whimsy
+Explanation of your color choices: I chose a collection of blues, pink and brown.  This combination suggests a whimsical tone which would be perfect for games for children.  Children are usually attracted to bright colors which would make them drawn to the website. 
