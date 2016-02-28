@@ -26,11 +26,13 @@ Fine-grained, atomic commits to your Production Problems repository that include
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556-CH66-SW1
 
-* HCI Guidline Two (URL):
 * How you implemented it in your sketch:
+I chose to defer all unnecessary content.  The only content that should show on the login page is login info, even the IIT alert takes you to a login page so it's completely useless until you login.  All the content currently on the login page can be accessed once the user has logged into myIIT.  Also a good use of negative space, no need for clutter. 
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/Process.html#//apple_ref/doc/uid/TP40006556-CH6-SW1
+* How you implemented it in your sketch: Determine who your users are.  It would only be current faculty, staff or students.  There's no need for information other than logging into the portal.  In the second drawing I chose to whittle down the design even more because users already know what to do if they cannot login (but if they don't they can expand the technical support for more information).
+
+* HCI Guidline Three (URL): https://www.google.com/design/spec/style/imagery.html#
+* How you implemented it in your sketch: Placing the hawk icon in the login box might help engage the user by using a familiar icon. Also using the myIIT icon at the top will help the user know they are in the right place. 
