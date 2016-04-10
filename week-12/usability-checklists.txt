@@ -8,18 +8,18 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. http://www.studyweb.com/test-your-website-a-57-point-checklist-for-maximum-usability/
+2. http://alistapart.com/article/sensibleforms
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.  Clear and simple navigation
+2.  Do you have "white space"
+3.  Have you tested alternative browsers
+4.  Give them room to type
+5.  Let the computer, not the user, handle information formatting
+6.  Have you used color properly
+7.  Does your logo link home
+8.  Is your text annoying
+9.  Is your design consistent
+10. Are your forms too much trouble
